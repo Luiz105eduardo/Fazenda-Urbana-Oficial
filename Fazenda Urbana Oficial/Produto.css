@@ -1,0 +1,113 @@
+﻿
+.Produtos {
+
+  
+    font-size: 35px;
+    color: forestgreen;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 68%;
+    left: 40%;
+}
+.texto {
+    font-size: 24px;
+    color: green;
+}
+
+.Verduras {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 95%;
+    left: 2%;
+}
+
+.imagem {
+    text-align: center; 
+}
+
+.Hortaliças {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 0%;
+    left: 105%;
+}
+.Legumes{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 150%;
+    left: 2%;
+}
+.Leguminosas {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 0%;
+    left: 105%;
+}
+
+.Frutas {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 165%;
+    right:110%;
+}
+
+.Fruit {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: absolute;
+    top: 0%;
+    left: 105%;
+}
+.Compras {
+    
+    font-size: 25px;
+    color: forestgreen;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 160%;
+    right: 75%;
+}
+
+.QRCODE {
+    position: absolute;
+    top: 175%;
+    right: 180%;
+}
+.Qrcode {
+    position: absolute;
+    top: 175%;
+    left:30%;
+}
+
+
+.footer {
+    position: absolute;
+    top: 335%;
+}
+
+.footer {
+    background-color: forestgreen;
+    text-align: center;
+    font-size: 43px;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    position: absolute;
+    top: 335%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}

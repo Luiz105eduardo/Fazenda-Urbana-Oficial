@@ -1,0 +1,67 @@
+﻿
+.história {
+    text-align: center;
+    color: blueviolet;
+    font-size: 35px;
+    position: absolute;
+    top: 65%;
+}
+
+.footer {
+    position: absolute;
+    top: 145%;
+}
+
+.Valores {
+    padding: 10px;
+    text-align: center;
+    color: blueviolet;
+    font-size: 35px;
+    position: absolute;
+    top: 65%;
+}
+
+.Planta {
+    display: grid;
+    place-items: center;
+}
+
+.Contato {
+    color: forestgreen;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 25px;
+    position: absolute;
+    top: 80%;
+    left: 5%;
+}
+
+
+.CTT {
+    position: absolute;
+    top: 125%;
+    font-size: 25px;
+    color: forestgreen;
+    width: 140px;
+    left: 5%;
+}
+
+.footer1 {
+    position: absolute;
+    top: 210%;
+}
+
+.footer1 {
+    background-color: forestgreen;
+    text-align: center;
+    font-size: 43px;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    position: absolute;
+    top: 210%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
